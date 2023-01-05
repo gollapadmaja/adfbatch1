@@ -1,0 +1,6 @@
+{
+	"name": "bigdatagateway-drn",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

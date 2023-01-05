@@ -1,0 +1,9 @@
+{
+	"name": "Padmaja27",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "560f8b29-bfae-4ba8-8a72-76816c6f34b9",
+		"tenantId": "1421af62-726d-40a6-9246-2feef9f0cf6a"
+	}
+}
